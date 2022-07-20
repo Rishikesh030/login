@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <title>`substitute(Filename('', 'Page Title'), '^.', '\u&', '')`</title>
+                                   
+                                        form of the login
+    </head>
+                                
+    </head>
+    <body>
+        <form success.html method="post">
+            <table  border="1" width="50%" align="center" >
+            <tr>
+                <td> enter your email adress *
+                     </td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="email" name="email" required />
+                </td>
+            </tr>
+            <tr>
+                <td> enter your password *
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="password" name="pasword" required />
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" align="center">
+                    
+                    <input type="submit" name="submit"  value="Login" />
+                    
+                </td>
+            </tr>
+        </table>
+        </form>
+    </body>
+</html>
